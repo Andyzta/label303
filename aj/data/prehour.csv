@@ -1,0 +1,73 @@
+﻿SDATE,temp,wind,humidity,describe,is_holiday
+2020/01/15 00:00,-6.9,9,57,Clear.,0
+2020/01/15 01:00,-7.2,10,63,Clear.,0
+2020/01/15 02:00,-7.5,10,68,Clear.,0
+2020/01/15 03:00,-7.8,9,70,Clear.,0
+2020/01/15 04:00,-8.1,9,72,Clear.,0
+2020/01/15 05:00,-8.4,8,75,High level clouds.,0
+2020/01/15 06:00,-8.8,8,78,High level clouds.,0
+2020/01/15 07:00,-9.2,8,81,High level clouds.,0
+2020/01/15 08:00,-9.0,9,84,High level clouds.,0
+2020/01/15 09:00,-7.4,9,76,High level clouds.,0
+2020/01/15 10:00,-5.0,10,65,High level clouds.,0
+2020/01/15 11:00,-3.2,10,56,High level clouds.,0
+2020/01/15 12:00,-1.3,11,49,High level clouds.,0
+2020/01/15 13:00,0.1,12,46,High level clouds.,0
+2020/01/15 14:00,0.8,12,44,High level clouds.,0
+2020/01/15 15:00,1.3,12,43,High level clouds.,0
+2020/01/15 16:00,0.7,11,46,High level clouds.,0
+2020/01/15 17:00,-0.6,10,52,High level clouds.,0
+2020/01/15 18:00,-1.2,10,55,High level clouds.,0
+2020/01/15 19:00,-2.4,9,61,Passing clouds.,0
+2020/01/15 20:00,-3.4,8,67,Passing clouds.,0
+2020/01/15 21:00,-4.3,8,72,Passing clouds.,0
+2020/01/15 22:00,-5.2,6,77,Passing clouds.,0
+2020/01/15 23:00,-5.7,7,78,Passing clouds.,0
+2020/01/16 00:00,-5.9,8,78,Passing clouds.,0
+2020/01/16 01:00,-6.1,9,78,Passing clouds.,0
+2020/01/16 02:00,-6.3,9,78,High level clouds.,0
+2020/01/16 03:00,-6.3,10,77,High level clouds.,0
+2020/01/16 04:00,-6.3,10,76,High level clouds.,0
+2020/01/16 05:00,-6.3,10,75,High level clouds.,0
+2020/01/16 06:00,-6.7,11,74,High level clouds.,0
+2020/01/16 07:00,-7.2,12,73,High level clouds.,0
+2020/01/16 08:00,-7.1,13,71,High level clouds.,0
+2020/01/16 09:00,-6.0,13,62,High level clouds.,0
+2020/01/16 10:00,-4.3,14,52,High level clouds.,0
+2020/01/16 11:00,-2.9,14,44,High level clouds.,0
+2020/01/16 12:00,-1.2,13,38,High level clouds.,0
+2020/01/16 13:00,0.1,13,35,High level clouds.,0
+2020/01/16 14:00,0.8,13,34,High level clouds.,0
+2020/01/16 15:00,1.2,12,34,High level clouds.,0
+2020/01/16 16:00,0.9,11,37,High level clouds.,0
+2020/01/16 17:00,-0.1,10,43,High level clouds.,0
+2020/01/16 18:00,-1.1,8,50,High level clouds.,0
+2020/01/16 19:00,-2.3,6,57,High level clouds.,0
+2020/01/16 20:00,-3.4,5,65,High level clouds.,0
+2020/01/16 21:00,-4.3,4,72,High level clouds.,0
+2020/01/16 22:00,-4.9,5,77,High level clouds.,0
+2020/01/16 23:00,-5.1,5,78,High level clouds.,0
+2020/01/17 00:00,-5.1,6,77,High level clouds.,0
+2020/01/17 01:00,-5.1,6,76,Passing clouds.,0
+2020/01/17 02:00,-5.3,7,77,High level clouds.,0
+2020/01/17 03:00,-5.6,7,77,High level clouds.,0
+2020/01/17 04:00,-5.9,7,77,High level clouds.,0
+2020/01/17 05:00,-6.2,6,78,High level clouds.,0
+2020/01/17 06:00,-6.5,7,78,High level clouds.,0
+2020/01/17 07:00,-6.9,7,78,High level clouds.,0
+2020/01/17 08:00,-6.8,8,77,High level clouds.,0
+2020/01/17 09:00,-5.4,9,70,High level clouds.,0
+2020/01/17 10:00,-3.4,9,61,More sun than clouds.,0
+2020/01/17 11:00,-1.8,9,54,More sun than clouds.,0
+2020/01/17 12:00,-0.1,10,45,More sun than clouds.,0
+2020/01/17 13:00,1.3,11,39,More sun than clouds.,0
+2020/01/17 14:00,2.1,11,35,More clouds than sun.,0
+2020/01/17 15:00,2.5,11,34,More sun than clouds.,0
+2020/01/17 16:00,2.1,10,37,More sun than clouds.,0
+2020/01/17 17:00,0.7,10,43,More sun than clouds.,0
+2020/01/17 18:00,-0.3,9,47,Passing clouds.,0
+2020/01/17 19:00,-1.8,9,54,Passing clouds.,0
+2020/01/17 20:00,-2.8,8,59,Passing clouds.,0
+2020/01/17 21:00,-3.7,8,65,Passing clouds.,0
+2020/01/17 22:00,-4.5,8,71,Passing clouds.,0
+2020/01/17 23:00,-4.9,8,73,Clear.,0
